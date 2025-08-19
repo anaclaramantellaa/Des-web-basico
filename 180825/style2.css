@@ -1,0 +1,18 @@
+/* comentario em css 
+    Tipos de seletores: 
+    seletor de elementos - linha 7
+    seletor de id - linha 10
+    seletor de classe - linha 13
+*/
+h1{
+    color: navy;
+}
+#p1{
+    background-color: gray;
+}
+.est{
+    border-style: solid;
+}
+p.centro{
+    text-align: center;
+}
